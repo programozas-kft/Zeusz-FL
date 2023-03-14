@@ -1,4 +1,4 @@
 # Zeusz-web 2023
 Adóraktár program webes környezetben.
 
-![image](https://user-images.githubusercontent.com/5490310/208288996-6c22e0a4-4365-4a2b-ace1-9ee102f8679e.png)
+![image](https://user-images.githubusercontent.com/5490310/225105946-57b6fb4b-6de8-443d-b619-9d809287a20e.png)
